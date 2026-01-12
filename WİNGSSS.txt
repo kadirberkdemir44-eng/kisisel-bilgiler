@@ -1,0 +1,11 @@
+walk,-3592,-924,5765
+cast,İnleyen Haykırış
+walk,-3620,-934,5765
+cast,Haykırış
+walk,-3625,-959,5591
+cast,Haykırış
+walk,-3623,-933,5700
+cast,İnleyen Haykırış
+walk,-3599,-942,5765
+cast,Haykırış
+walk,-3618,-935,5707
